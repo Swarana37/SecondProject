@@ -1,4 +1,5 @@
                                                                 FINDING THE SECOND LARGEST NUMBER 
+// Simple steps to find second largest number
 
 
 ALGORITHM :
