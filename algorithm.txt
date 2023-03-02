@@ -1,0 +1,22 @@
+                                                                FINDING THE SECOND LARGEST NUMBER 
+
+
+ALGORITHM :
+
+ 
+        STEP 1 :  Start the process
+        STEP 2 :  Declare the variables temp , size. 
+        STEP 3 :  Creating the array .
+        STEP 4 :  Read the array values .
+        STEP 5 :  Assign the values in for loop for the array with its size.
+        STEP 6 :  Compare the Array sizes .
+        STEP 7 :  Assign the first biggest value to temporary variable.
+        STEP 8 :  Swap the second largest value to another temp variable.
+        STEP 9 :  Compare the values and get the values.
+        STEP 10 :  Stop the process
+
+
+
+
+                          
+                 
